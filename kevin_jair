@@ -1,0 +1,325 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ | RCN #1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/RCN_Televisi%C3%B3n_Nueva_Imagen.png/640px-RCN_Televisi%C3%B3n_Nueva_Imagen.png" group-title="Colombia",RCN ᴴᴰ (Lgratis)
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/153615
+
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="COL: RCN 2 Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/1200px-LogoNTyLR.svg.png" group-title="Colombia",RCN 2 ᴴᴰ (Lgratis)
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/137655
+
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="COL: RCN NOVELAS Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/1280px-RCN_Novelas_logo.svg.png" group-title="Colombia",RCN NOVELAS ᴴᴰ (Lgratis)
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/3577
+
+#EXTINF:-1 tvg-id="" tvg-name="COL: RCN XTRA Cᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/rcn-xtra_2.png" group-title="Colombia",RCN XTRA Fᴴᴰ (Lgratis)
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/162526
+
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="COL: CARACOL Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Colombia",CARACOLᴴᴰ (Lgratis)
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/3571
+
+#EXTINF:-1 tvg-id="" tvg-name="COL: CARACOL #2 Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png/1200px-Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Colombia",CARACOL 2 ᴴᴰ (Lgratis)
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/157248
+
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="COL: TELECARIBE Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/1200px-Telecaribe2017.png" group-title="Colombia",TELECARIBE ᴴᴰ (Lgratis)
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/3581
+
+#EXTINF:-1 tvg-id="CitytvBogota.co" tvg-name="COL: CITY TV Cᵒˡᵒᵐᵇⁱᵃ Fᴴᴰ" tvg-logo="" group-title="Colombia",CITY TV Fᴴᴰ (Lgratis)
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/140410
+
+#EXTINF:-1 tvg-id="Canal1.co" tvg-name="COL: CANAL UNO Cᵒˡᵒᵐᵇⁱᵃ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia",CANAL UNO (Lgratis)
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/3570
+
+#EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="COL: CANAL SEÑAL COLOMBIA Fᴴᴰ" tvg-logo="https://w7.pngwing.com/pngs/1000/826/png-transparent-colombia-channel-1-logo-television-colombia-logo-purple-television-angle.png" group-title="Colombia",SEÑAL COLOMBIA (Lgratis)
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/151650
+
+#EXTINF:-1 tvg-id="" tvg-name="COL: CANAL 9 Televisión Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/RedM%C3%A1s2019.png" group-title="Colombia",CANAL 9 ᴴᴰ (Lgratis)
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/160036
+
+#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-name="COL: CABLE NOTICIAS Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="Colombia",CABLE NOTICIAS ᴴᴰ (Lgratis)
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/3587
+
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ | WIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="Colombia",WIN SPORTS (Lgratis)
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/153617
+
+#EXTINF:-1 tvg-id="PlutoTVTelemundoTelenovelas.us" tvg-logo="https://i.imgur.com/l5BDImW.png" group-title="TELEMUNDO",Telemundo Telenovelas (480p)
+
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="PlutoTVTelemundoTelenovelas.us" tvg-logo="https://i.imgur.com/l5BDImW.png" group-title="TELEMUNDO",Telemundo Las Vegas
+
+http://144.202.61.145/solcruel/get.php?id=313131204c41543a2054656c656d756e646f204c6173205665676173&type=master.m3u8
+
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="TELEMUNDO",Telemundo PR(1080p)
+
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="kj" tvg-logo="kj" group-title="CINE",HBO XTREME
+
+http://144.202.61.145/solcruel/get.php?id=353231204c41543a2048424f20587472656d65&type=master.m3u8
+
+#EXTINF:-1 tvg-id="kj" tvg-logo="kj" group-title="CINE",HBO FAMILY
+
+http://144.202.61.145/solcruel/get.php?id=353135204c41543a2048424f2046616d696c79204844&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",UNIVERSAL PREMIER
+
+http://144.202.61.145/solcruel/get.php?id=353331204c41543a20556e6976657273616c205072656d69657265202f20556e6976657273616c205072656d69657265&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",GOLDEN EDGE
+
+http://144.202.61.145/solcruel/get.php?id=353039204c41543a20476f6c64656e2045646765204844&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",UNIVERSAL
+
+http://144.202.61.145/solcruel/get.php?id=353237204c41543a20556e6976657273616c205456&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",HBO
+
+http://144.202.61.145/solcruel/get.php?id=353133204c41543a2048424f204844&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",HBO_2
+
+http://144.202.61.145/solcruel/get.php?id=353134204c41543a2048424f2032204844&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",HBO SIGNATURE
+
+http://144.202.61.145/solcruel/get.php?id=353230204c41543a2048424f205369676e6174757265204844&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",UNIVERSAL CINEMA
+
+http://144.202.61.145/solcruel/get.php?id=353238204c41543a20556e6976657273616c2043696e656d61202f20556e6976657273616c2043696e656d61&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",UNIVERSAL COMEDY
+
+http://144.202.61.145/solcruel/get.php?id=353239204c41543a20556e6976657273616c20436f6d656479202f20556e6976657273616c20436f6d656479&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",UNIVERSAL CRIME
+
+http://144.202.61.145/solcruel/get.php?id=353330204c41543a20556e6976657273616c204372696d65202f20556e6976657273616c204372696d65&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",TNT
+
+http://144.202.61.145/solcruel/get.php?id=333430204c41543a20544e54&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",SONY
+
+http://144.202.61.145/solcruel/get.php?id=333332204c41543a20536f6e79&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",TBS
+
+http://144.202.61.145/solcruel/get.php?id=363433205553413a20544253204844&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",TCM
+
+http://144.202.61.145/solcruel/get.php?id=3138392045533a2054434d&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",WARNER WB
+
+http://144.202.61.145/solcruel/get.php?id=333435204c41543a205761726e6572204844&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",STUDIO UNIVERSAL
+
+http://144.202.61.145/solcruel/get.php?id=333334204c41543a2053747564696f20556e6976657273616c&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",SPACE
+
+http://144.202.61.145/solcruel/get.php?id=333333204c41543a205370616365204844&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",PARAMOUNT
+
+http://144.202.61.145/solcruel/get.php?id=333330204c41543a20506172616d6f756e74&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",CIMEMAX
+
+http://144.202.61.145/solcruel/get.php?id=353033204c41543a2043696e656d6178204844&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",GOLDEN
+
+http://144.202.61.145/solcruel/get.php?id=353038204c41543a20476f6c64656e&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",HBO PLUS
+
+http://158.69.116.209:20102/live/21dab3907cb14fa580841ba5b3692661/d8cd8ffcb22147b3836b6d79a2e8c94c/9.m3u8
+
+EXTINF:-1 tvg-logo="kj",
+
+EXTINF:-1 tvg-logo="kj",
+
+EXTINF:-1 tvg-logo="kj",
+
+EXTINF:-1 tvg-logo="kj",
+
+EXTINF:-1 tvg-logo="kj",
+
+EXTINF:-1 tvg-logo="kj",AMC
+
+http://144.202.61.145/solcruel/get.php?id=323939204c41543a20414d43&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",AXN
+
+http://144.202.61.145/solcruel/get.php?id=333031204c41543a2041584e204844&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",FX
+
+http://144.202.61.145/solcruel/get.php?id=333137204c41543a204658204844&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",LIFE TIME
+
+http://144.202.61.145/solcruel/get.php?id=333236204c41543a204c69666574696d65&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",CINE CANAL
+
+http://144.202.61.145/solcruel/get.php?id=353032204c41543a2043696e6563616e616c204844&type=master.m3u8
+
+
+#EXTINF:-1 tvg-id="kj" tvg-logo="kj" group-title="ENTRETENIMIENTO",Novelas Univision
+
+http://144.202.61.145/solcruel/get.php?id=313136204c41543a20556e69766973696f6e204e6f76656c6173202f20556e69766973696f6e20544c4e6f76656c6173&type=master.m3u8
+
+#EXTINF:-1, Las Estrellas
+
+http://144.202.61.145/solcruel/get.php?id=313032204c41543a2045737472656c6c6173202d3220487273&type=master.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO 2",UNIVERSAL REALITY
+
+http://144.202.61.145/solcruel/get.php?id=353332204c41543a20556e6976657273616c205265616c697479202f20556e6976657273616c205265616c697479&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",ID Investigacion Discovery
+
+http://144.202.61.145/solcruel/get.php?id=333234204c41543a20496e7665737469676174696f6e20446973636f76657279204844&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",TNT SERIES
+
+http://144.202.61.145/solcruel/get.php?id=333432204c41543a20544e5420536572696573&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",
+
+EXTINF:-1 tvg-logo="kj",ANIMAL PLANET
+
+http://144.202.61.145/solcruel/get.php?id=333030204c41543a20416e696d616c20506c616e6574204844&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",DISCOVERY
+
+http://144.202.61.145/solcruel/get.php?id=333034204c41543a20446973636f76657279204368616e6e656c&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",DISCOVERY THEAT
+
+http://144.202.61.145/solcruel/get.php?id=333038204c41543a20446973636f766572792054686561746572204844&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",HISTORY
+
+http://144.202.61.145/solcruel/get.php?id=333230204c41543a20486973746f7279204368616e6e656c204844&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",HISTORY 2
+
+http://144.202.61.145/solcruel/get.php?id=333233204c41543a204832&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",NATGEO
+
+http://144.202.61.145/solcruel/get.php?id=3138342045533a204e6174696f6e616c2047656f67726170686963204844&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",DISCOVERY HOME&HEALTH
+
+http://144.202.61.145/solcruel/get.php?id=333232204c41543a20486f6d6520616e64204865616c7468204844&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",DISCOVERY TURBO
+
+http://144.202.61.145/solcruel/get.php?id=333039204c41543a20446973636f7665727920547572626f204844&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",DISCOVERY SCIEN
+
+http://144.202.61.145/solcruel/get.php?id=333037204c41543a20446973636f7665727920536369656e6365204844&type=master.m3u8
+
+EXTINF:-1 tvg-logo="kj",DISCOVERY WORLD
+
+http://144.202.61.145/solcruel/get.php?id=333130204c41543a20446973636f7665727920576f726c64&type=master.m3u8
+
+#EXTINF:-1 tvg-logo="kj" group-title="INFANTIL",
+
+EXTINF:-1 tvg-logo="kj",
+
+EXTINF:-1 tvg-logo="kj",
+
+EXTINF:-1 tvg-logo="kj",
+
+#EXTINF:-1 tvg-logo="kj" group-title="Pruebas",
+
+#EXTINF:-1 tvg-id="" tvg-name="Usa ᴴᴰ | TELEMUNDO NY " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/RCN_Televisi%C3%B3n_Nueva_Imagen.png/640px-RCN_Televisi%C3%B3n_Nueva_Imagen.png",TELEMUNDO 47 NY 
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/153618
+
+#EXTINF:-1 tvg-id="" tvg-name="USA: TELEMUNDO SACRAMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/KCSO_Telemundo_33_Logo.png",TELEMUNDO SACRAMENTO
+
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/162125
+
+#EXTINF:-1 tvg-logo="kj",Sawx (DT)
+http://208.88.245.85/nuevo/saw.x.dual.2023.mkv
+
+#EXTINF:-1 tvg-logo="kj",Agente Stone (GV)
+
+https://s08.ll1.lat/0:/p/agente_stone_espanol_2023.mp4
+
+#EXTINF:-1 tvg-logo="kj",
+#EXTINF:-1 tvg-logo="kj",
+
+#EXTINF:-1 tvg-logo="kj",
+
+#EXTINF:-1 tvg-logo="kj" group-title="TERROR",JUICIO AL DIABLO
+
+https://s16.ll1.lat/0:/p/juicion_al_diablo_espanol_2023.mp4
+
+#EXTINF:-1 tvg-logo="kj",El Exorcista "Creyentes"
+
+https://s16.ll1.lat/0:/p/el_exorcista_creyentes_espanol_2023.mp4
+
+#EXTINF:-1 tvg-logo="kj" group-title="ALTERNATIVO",Hbo2
+http://190.60.36.103:8000/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-logo="kj",RCN Novelas
+http://190.60.36.103:8000/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-logo="kj",Star
+
+http://190.60.36.103:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-logo="kj" group-title="Tv Guate",Baby First
+
+http://176.57.50.27:25461/noelrod/7smlZnMIgA/26886?token=GkMOV0pdG18SAAwFV1VeAVpSWAdUBAdXXABRBgBcU1dQUVJVDQILV1UXGUNHFxRXAllmXVYVDgRSCF5THUcWEgQTOV9dFwNHBQIFVAdVRB5BQFBZVxUOB1IJX1cJU1RRVU1ERlBRG18SBg1YBVNEHkFRQUBXRVpXCG8CAEcMAARDWwhDVVkVR19bagVRDgdcBxYDFgIVGBQNQxZHCwsWDQ1NRFRQQUsERFAXWxZSVQVRFhUWUVhBWBBCH0cLRyAuQ01EU0FBXAtDXFoPFllERhAWFRZbRGtEAUMSF1QEDgQTQ1wUCRcVR11UTT5XDAhcBldNXV1ZRxReElVHHUcODg8IEllLakkMVBcPQwFWVgRSFkQ=
+
+#EXTINF:-1 tvg-logo="kj",Cine Latino
+http://191.96.100.189:25461/noelrod/7smlZnMIgA/1926?token=GkMOV0pdG18SBQUFVVFfCwFVCVUKUQdVAFYAAFIDUVMEUFIAWgFbAFMXGUNHFxRXAllmXVYVDgddAlBJExAQBBM+D1IbDxtQBwUAUgJBShAXXVRREA0FAF0JVF0GVFJTTUMWX10XA0cIBgdZFk9EVxtAXEZcVlhpAFUQDFIAQVsPFApaFRdWC29RUAxVDQIQWRYJFh4VXUUUElwLRAkPTUMDD0JLVE0AEg8XUgRVXxBPFlpbR1lARB0SXEdyKkFNQwQeQlxbSgxfWxdbFhcVEE8WUEdtRVFFEEIDBFwAEUNbQ1YUFRdUBEhqVg5aDQNRF11WWkEVDhRXEkpHXAoNCBUOFGlJXF1HChcBVgVRURAe
+
+#EXTINF:-1 tvg-logo="kj",
+
+#EXTINF:-1 tvg-logo="kj",Space
+http://190.60.36.103:8000/play/a06h/index.m3u8
+
+#EXTINF:-1 tvg-logo="kj",Warner Tv
+http://190.60.36.103:8000/play/a00w/index.m3u8
+
+#EXTINF:-1 tvg-logo="kj",
+
+#EXTINF:-1 tvg-logo="kj",Htv
+
+http://173.208.201.242:25461/Landazuri2023/2023Landazuri/348677?token=HRIOAkEOEltBClJRV1xWCgVVV1EPUVUAVAkKVgdRUgFQCVBTVlBRWFYRT0QXTUJWUg87D1wQW1YGAQ5UAR5HTBVVFDxbAhJbQQFVX1MBEh8RFg0LXRBbVAQAAVEOClwJURxEE1sCEltBBFNeXQsSHxEHHBJdQA8EXmZcBkBbBlxECggWXgocQwxdPAIBVFFdV0BeRAkQTUdbSkhBDFwQVQocRAFbEkIAF1ZBXEYIBAQEQEhEW10UC0ZLQUEMECZ2RBxEBkoSVQ8QWgwIRgMSR0BASERRQT4XV0pMEVNTCFwUElxBAkQcQw5SGzkHVl5dVgEQD1dcEkcIGwtBGhAIVghZEgxAOUAIBxFZRFMJBgUAQBk=
+
+#EXTINF:-1 tvg-logo="kj" group-title="Deportivos",
+
+#EXTINF:-1 tvg-logo="kj",ESPA 4
+
+http://190.60.36.103:8000/play/a01b/index.m3u8
+
+#EXTINF:-1 tvg-logo="kj",Claro Sport2
+http://45.5.117.182:8000/play/a0e5/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2South.us" tvg-name="COL: FOX SPORTS 2 ᴾᴿᴵᴹᴱᴿᴬ Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportivos",FOX SPORTS 2 ᴴᴰ (Lgratis)
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/145407
+
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="COL: WIN SPORTS+ ᴾᴿᴵᴹᴱᴿᴬ Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="Deportivos",WIN SPORTS + ᴴᴰ (Lgratis)
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/131984
+
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ | WIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="Deportivos",WIN SPORTS (Lgratis)
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/153617
+
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="Sports | DIRECTV SPORTS HD (COL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="Deportivos",DIRECTV SPORTS (Lgratis)
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/145401
+
+#EXTINF:-1 tvg-id="ESPNMexico.mx" tvg-name="Sports | ESPN HD COLOMBIA" tvg-logo="https://b-i.forbesimg.com/dorothypomerantz/files/2014/01/670px-ESPN_wordmark.svg_.png" group-title="Deportivos",ESPN (Lgratis)
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/145423
